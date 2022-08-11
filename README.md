@@ -1,4 +1,4 @@
-# React project Starter - using Vite Configuration - Vanilla JS - tailwindcss
+# React project Starter - using Vite Configuration - TypeScript - tailwindcss
 
 ## Introduction
 
@@ -16,7 +16,7 @@ Here I simplify all the steps needed to create a React app project. I customized
 
 - Open the branch you want to use for your project
 
-        git switch vite-tailwind
+        git switch vite-ts-tailwind
 
 - Install dependencies
 

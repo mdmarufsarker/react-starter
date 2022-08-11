@@ -1,4 +1,4 @@
-# React roject Starter - using Webpack Configuration
+# React project Starter - using Webpack Configuration
 
 ## Introduction
 

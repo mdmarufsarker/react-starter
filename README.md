@@ -1,4 +1,4 @@
-# React project Starter - using Webpack Configuration
+# React project Starter - using Webpack Configuration - React TypeScript
 
 ## Introduction
 
@@ -14,17 +14,21 @@ Here I simplify all the steps needed to create a React app project. I customized
 
         cd react-starter
 
+- Open the branch you want to use for your project
+
+        git switch vite-ts
+
 - Install dependencies
 
         npm install
 
 - Run the application
 
-        npm start
+        npm run dev
 
 - Open the browser and type
 
-        http://localhost:3000
+        http://127.0.0.1:5173/
 
 ### If you like this minimal starter don't forget to star this repository 💌
 

@@ -1,4 +1,4 @@
-# React project Starter - using Webpack Configuration
+# React project Starter - using Webpack Configuration - tailwindcss
 
 ## Introduction
 
@@ -13,6 +13,10 @@ Here I simplify all the steps needed to create a React app project. I customized
 - Open termnial and type
 
         cd react-starter
+
+- Open the branch you want to use for your project
+
+        git switch webpack-tailwind
 
 - Install dependencies
 
